@@ -213,12 +213,20 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		7ABF24B31C8F1A7000591D9E = {
+		7A7FBA681C91A62B008E6B1B /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
 				7AF7D2B11C917698000396EF /* PureLayout.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		7ABF24B31C8F1A7000591D9E = {
+			isa = PBXGroup;
+			children = (
 				7ABF24BF1C8F1A7100591D9E /* CTAssetsPicker */,
 				7ABF24CB1C8F1A7100591D9E /* CTAssetsPickerTests */,
+				7A7FBA681C91A62B008E6B1B /* Frameworks */,
 				7ABF24BE1C8F1A7100591D9E /* Products */,
 			);
 			sourceTree = "<group>";
@@ -466,6 +474,7 @@
 				sv,
 				"zh-Hans",
 				"zh-Hant",
+				Base,
 			);
 			mainGroup = 7ABF24B31C8F1A7000591D9E;
 			productRefGroup = 7ABF24BE1C8F1A7100591D9E /* Products */;
