@@ -10,72 +10,72 @@
 		7ABF24C11C8F1A7100591D9E /* CTAssetsPicker.h in Headers */ = {isa = PBXBuildFile; fileRef = 7ABF24C01C8F1A7100591D9E /* CTAssetsPicker.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7ABF24C81C8F1A7100591D9E /* CTAssetsPicker.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7ABF24BD1C8F1A7100591D9E /* CTAssetsPicker.framework */; };
 		7ABF24CD1C8F1A7100591D9E /* CTAssetsPickerTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 7ABF24CC1C8F1A7100591D9E /* CTAssetsPickerTests.m */; };
-		7ABF25351C8F1AE300591D9E /* CTAssetsPageViewController+Internal.h in Headers */ = {isa = PBXBuildFile; fileRef = 7ABF24D81C8F1AE300591D9E /* CTAssetsPageViewController+Internal.h */; };
-		7ABF25361C8F1AE300591D9E /* CTAssetsPickerController+Internal.h in Headers */ = {isa = PBXBuildFile; fileRef = 7ABF24D91C8F1AE300591D9E /* CTAssetsPickerController+Internal.h */; };
-		7ABF25371C8F1AE300591D9E /* NSBundle+CTAssetsPickerController.h in Headers */ = {isa = PBXBuildFile; fileRef = 7ABF24DA1C8F1AE300591D9E /* NSBundle+CTAssetsPickerController.h */; };
+		7ABF25351C8F1AE300591D9E /* CTAssetsPageViewController+Internal.h in Headers */ = {isa = PBXBuildFile; fileRef = 7ABF24D81C8F1AE300591D9E /* CTAssetsPageViewController+Internal.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		7ABF25361C8F1AE300591D9E /* CTAssetsPickerController+Internal.h in Headers */ = {isa = PBXBuildFile; fileRef = 7ABF24D91C8F1AE300591D9E /* CTAssetsPickerController+Internal.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		7ABF25371C8F1AE300591D9E /* NSBundle+CTAssetsPickerController.h in Headers */ = {isa = PBXBuildFile; fileRef = 7ABF24DA1C8F1AE300591D9E /* NSBundle+CTAssetsPickerController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7ABF25381C8F1AE300591D9E /* NSBundle+CTAssetsPickerController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7ABF24DB1C8F1AE300591D9E /* NSBundle+CTAssetsPickerController.m */; };
-		7ABF25391C8F1AE300591D9E /* NSDateFormatter+CTAssetsPickerController.h in Headers */ = {isa = PBXBuildFile; fileRef = 7ABF24DC1C8F1AE300591D9E /* NSDateFormatter+CTAssetsPickerController.h */; };
+		7ABF25391C8F1AE300591D9E /* NSDateFormatter+CTAssetsPickerController.h in Headers */ = {isa = PBXBuildFile; fileRef = 7ABF24DC1C8F1AE300591D9E /* NSDateFormatter+CTAssetsPickerController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7ABF253A1C8F1AE300591D9E /* NSDateFormatter+CTAssetsPickerController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7ABF24DD1C8F1AE300591D9E /* NSDateFormatter+CTAssetsPickerController.m */; };
-		7ABF253B1C8F1AE300591D9E /* NSIndexSet+CTAssetsPickerController.h in Headers */ = {isa = PBXBuildFile; fileRef = 7ABF24DE1C8F1AE300591D9E /* NSIndexSet+CTAssetsPickerController.h */; };
+		7ABF253B1C8F1AE300591D9E /* NSIndexSet+CTAssetsPickerController.h in Headers */ = {isa = PBXBuildFile; fileRef = 7ABF24DE1C8F1AE300591D9E /* NSIndexSet+CTAssetsPickerController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7ABF253C1C8F1AE300591D9E /* NSIndexSet+CTAssetsPickerController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7ABF24DF1C8F1AE300591D9E /* NSIndexSet+CTAssetsPickerController.m */; };
-		7ABF253D1C8F1AE300591D9E /* NSNumberFormatter+CTAssetsPickerController.h in Headers */ = {isa = PBXBuildFile; fileRef = 7ABF24E01C8F1AE300591D9E /* NSNumberFormatter+CTAssetsPickerController.h */; };
+		7ABF253D1C8F1AE300591D9E /* NSNumberFormatter+CTAssetsPickerController.h in Headers */ = {isa = PBXBuildFile; fileRef = 7ABF24E01C8F1AE300591D9E /* NSNumberFormatter+CTAssetsPickerController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7ABF253E1C8F1AE300591D9E /* NSNumberFormatter+CTAssetsPickerController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7ABF24E11C8F1AE300591D9E /* NSNumberFormatter+CTAssetsPickerController.m */; };
-		7ABF253F1C8F1AE300591D9E /* PHAsset+CTAssetsPickerController.h in Headers */ = {isa = PBXBuildFile; fileRef = 7ABF24E21C8F1AE300591D9E /* PHAsset+CTAssetsPickerController.h */; };
+		7ABF253F1C8F1AE300591D9E /* PHAsset+CTAssetsPickerController.h in Headers */ = {isa = PBXBuildFile; fileRef = 7ABF24E21C8F1AE300591D9E /* PHAsset+CTAssetsPickerController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7ABF25401C8F1AE300591D9E /* PHAsset+CTAssetsPickerController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7ABF24E31C8F1AE300591D9E /* PHAsset+CTAssetsPickerController.m */; };
-		7ABF25411C8F1AE300591D9E /* PHAssetCollection+CTAssetsPickerController.h in Headers */ = {isa = PBXBuildFile; fileRef = 7ABF24E41C8F1AE300591D9E /* PHAssetCollection+CTAssetsPickerController.h */; };
+		7ABF25411C8F1AE300591D9E /* PHAssetCollection+CTAssetsPickerController.h in Headers */ = {isa = PBXBuildFile; fileRef = 7ABF24E41C8F1AE300591D9E /* PHAssetCollection+CTAssetsPickerController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7ABF25421C8F1AE300591D9E /* PHAssetCollection+CTAssetsPickerController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7ABF24E51C8F1AE300591D9E /* PHAssetCollection+CTAssetsPickerController.m */; };
-		7ABF25431C8F1AE300591D9E /* UICollectionView+CTAssetsPickerController.h in Headers */ = {isa = PBXBuildFile; fileRef = 7ABF24E61C8F1AE300591D9E /* UICollectionView+CTAssetsPickerController.h */; };
+		7ABF25431C8F1AE300591D9E /* UICollectionView+CTAssetsPickerController.h in Headers */ = {isa = PBXBuildFile; fileRef = 7ABF24E61C8F1AE300591D9E /* UICollectionView+CTAssetsPickerController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7ABF25441C8F1AE300591D9E /* UICollectionView+CTAssetsPickerController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7ABF24E71C8F1AE300591D9E /* UICollectionView+CTAssetsPickerController.m */; };
-		7ABF25451C8F1AE300591D9E /* UIImage+CTAssetsPickerController.h in Headers */ = {isa = PBXBuildFile; fileRef = 7ABF24E81C8F1AE300591D9E /* UIImage+CTAssetsPickerController.h */; };
+		7ABF25451C8F1AE300591D9E /* UIImage+CTAssetsPickerController.h in Headers */ = {isa = PBXBuildFile; fileRef = 7ABF24E81C8F1AE300591D9E /* UIImage+CTAssetsPickerController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7ABF25461C8F1AE300591D9E /* UIImage+CTAssetsPickerController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7ABF24E91C8F1AE300591D9E /* UIImage+CTAssetsPickerController.m */; };
-		7ABF25471C8F1AE300591D9E /* CTAssetCheckmark.h in Headers */ = {isa = PBXBuildFile; fileRef = 7ABF24EA1C8F1AE300591D9E /* CTAssetCheckmark.h */; };
+		7ABF25471C8F1AE300591D9E /* CTAssetCheckmark.h in Headers */ = {isa = PBXBuildFile; fileRef = 7ABF24EA1C8F1AE300591D9E /* CTAssetCheckmark.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7ABF25481C8F1AE300591D9E /* CTAssetCheckmark.m in Sources */ = {isa = PBXBuildFile; fileRef = 7ABF24EB1C8F1AE300591D9E /* CTAssetCheckmark.m */; };
-		7ABF25491C8F1AE300591D9E /* CTAssetCollectionViewCell.h in Headers */ = {isa = PBXBuildFile; fileRef = 7ABF24EC1C8F1AE300591D9E /* CTAssetCollectionViewCell.h */; };
+		7ABF25491C8F1AE300591D9E /* CTAssetCollectionViewCell.h in Headers */ = {isa = PBXBuildFile; fileRef = 7ABF24EC1C8F1AE300591D9E /* CTAssetCollectionViewCell.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7ABF254A1C8F1AE300591D9E /* CTAssetCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 7ABF24ED1C8F1AE300591D9E /* CTAssetCollectionViewCell.m */; };
-		7ABF254B1C8F1AE300591D9E /* CTAssetCollectionViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 7ABF24EE1C8F1AE300591D9E /* CTAssetCollectionViewController.h */; };
+		7ABF254B1C8F1AE300591D9E /* CTAssetCollectionViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 7ABF24EE1C8F1AE300591D9E /* CTAssetCollectionViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7ABF254C1C8F1AE300591D9E /* CTAssetCollectionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7ABF24EF1C8F1AE300591D9E /* CTAssetCollectionViewController.m */; };
-		7ABF254D1C8F1AE300591D9E /* CTAssetItemViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 7ABF24F01C8F1AE300591D9E /* CTAssetItemViewController.h */; };
+		7ABF254D1C8F1AE300591D9E /* CTAssetItemViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 7ABF24F01C8F1AE300591D9E /* CTAssetItemViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7ABF254E1C8F1AE300591D9E /* CTAssetItemViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7ABF24F11C8F1AE300591D9E /* CTAssetItemViewController.m */; };
-		7ABF254F1C8F1AE300591D9E /* CTAssetPlayButton.h in Headers */ = {isa = PBXBuildFile; fileRef = 7ABF24F21C8F1AE300591D9E /* CTAssetPlayButton.h */; };
+		7ABF254F1C8F1AE300591D9E /* CTAssetPlayButton.h in Headers */ = {isa = PBXBuildFile; fileRef = 7ABF24F21C8F1AE300591D9E /* CTAssetPlayButton.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7ABF25501C8F1AE300591D9E /* CTAssetPlayButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 7ABF24F31C8F1AE300591D9E /* CTAssetPlayButton.m */; };
-		7ABF25511C8F1AE300591D9E /* CTAssetScrollView.h in Headers */ = {isa = PBXBuildFile; fileRef = 7ABF24F41C8F1AE300591D9E /* CTAssetScrollView.h */; };
+		7ABF25511C8F1AE300591D9E /* CTAssetScrollView.h in Headers */ = {isa = PBXBuildFile; fileRef = 7ABF24F41C8F1AE300591D9E /* CTAssetScrollView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7ABF25521C8F1AE300591D9E /* CTAssetScrollView.m in Sources */ = {isa = PBXBuildFile; fileRef = 7ABF24F51C8F1AE300591D9E /* CTAssetScrollView.m */; };
-		7ABF25531C8F1AE300591D9E /* CTAssetSelectionButton.h in Headers */ = {isa = PBXBuildFile; fileRef = 7ABF24F61C8F1AE300591D9E /* CTAssetSelectionButton.h */; };
+		7ABF25531C8F1AE300591D9E /* CTAssetSelectionButton.h in Headers */ = {isa = PBXBuildFile; fileRef = 7ABF24F61C8F1AE300591D9E /* CTAssetSelectionButton.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7ABF25541C8F1AE300591D9E /* CTAssetSelectionButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 7ABF24F71C8F1AE300591D9E /* CTAssetSelectionButton.m */; };
-		7ABF25551C8F1AE300591D9E /* CTAssetSelectionLabel.h in Headers */ = {isa = PBXBuildFile; fileRef = 7ABF24F81C8F1AE300591D9E /* CTAssetSelectionLabel.h */; };
+		7ABF25551C8F1AE300591D9E /* CTAssetSelectionLabel.h in Headers */ = {isa = PBXBuildFile; fileRef = 7ABF24F81C8F1AE300591D9E /* CTAssetSelectionLabel.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7ABF25561C8F1AE300591D9E /* CTAssetSelectionLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 7ABF24F91C8F1AE300591D9E /* CTAssetSelectionLabel.m */; };
-		7ABF25571C8F1AE300591D9E /* CTAssetsGridSelectedView.h in Headers */ = {isa = PBXBuildFile; fileRef = 7ABF24FA1C8F1AE300591D9E /* CTAssetsGridSelectedView.h */; };
+		7ABF25571C8F1AE300591D9E /* CTAssetsGridSelectedView.h in Headers */ = {isa = PBXBuildFile; fileRef = 7ABF24FA1C8F1AE300591D9E /* CTAssetsGridSelectedView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7ABF25581C8F1AE300591D9E /* CTAssetsGridSelectedView.m in Sources */ = {isa = PBXBuildFile; fileRef = 7ABF24FB1C8F1AE300591D9E /* CTAssetsGridSelectedView.m */; };
-		7ABF25591C8F1AE300591D9E /* CTAssetsGridView.h in Headers */ = {isa = PBXBuildFile; fileRef = 7ABF24FC1C8F1AE300591D9E /* CTAssetsGridView.h */; };
+		7ABF25591C8F1AE300591D9E /* CTAssetsGridView.h in Headers */ = {isa = PBXBuildFile; fileRef = 7ABF24FC1C8F1AE300591D9E /* CTAssetsGridView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7ABF255A1C8F1AE300591D9E /* CTAssetsGridView.m in Sources */ = {isa = PBXBuildFile; fileRef = 7ABF24FD1C8F1AE300591D9E /* CTAssetsGridView.m */; };
-		7ABF255B1C8F1AE300591D9E /* CTAssetsGridViewCell.h in Headers */ = {isa = PBXBuildFile; fileRef = 7ABF24FE1C8F1AE300591D9E /* CTAssetsGridViewCell.h */; };
+		7ABF255B1C8F1AE300591D9E /* CTAssetsGridViewCell.h in Headers */ = {isa = PBXBuildFile; fileRef = 7ABF24FE1C8F1AE300591D9E /* CTAssetsGridViewCell.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7ABF255C1C8F1AE300591D9E /* CTAssetsGridViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 7ABF24FF1C8F1AE300591D9E /* CTAssetsGridViewCell.m */; };
-		7ABF255D1C8F1AE300591D9E /* CTAssetsGridViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 7ABF25001C8F1AE300591D9E /* CTAssetsGridViewController.h */; };
+		7ABF255D1C8F1AE300591D9E /* CTAssetsGridViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 7ABF25001C8F1AE300591D9E /* CTAssetsGridViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7ABF255E1C8F1AE300591D9E /* CTAssetsGridViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7ABF25011C8F1AE300591D9E /* CTAssetsGridViewController.m */; };
-		7ABF255F1C8F1AE300591D9E /* CTAssetsGridViewFooter.h in Headers */ = {isa = PBXBuildFile; fileRef = 7ABF25021C8F1AE300591D9E /* CTAssetsGridViewFooter.h */; };
+		7ABF255F1C8F1AE300591D9E /* CTAssetsGridViewFooter.h in Headers */ = {isa = PBXBuildFile; fileRef = 7ABF25021C8F1AE300591D9E /* CTAssetsGridViewFooter.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7ABF25601C8F1AE300591D9E /* CTAssetsGridViewFooter.m in Sources */ = {isa = PBXBuildFile; fileRef = 7ABF25031C8F1AE300591D9E /* CTAssetsGridViewFooter.m */; };
-		7ABF25611C8F1AE300591D9E /* CTAssetsGridViewLayout.h in Headers */ = {isa = PBXBuildFile; fileRef = 7ABF25041C8F1AE300591D9E /* CTAssetsGridViewLayout.h */; };
+		7ABF25611C8F1AE300591D9E /* CTAssetsGridViewLayout.h in Headers */ = {isa = PBXBuildFile; fileRef = 7ABF25041C8F1AE300591D9E /* CTAssetsGridViewLayout.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7ABF25621C8F1AE300591D9E /* CTAssetsGridViewLayout.m in Sources */ = {isa = PBXBuildFile; fileRef = 7ABF25051C8F1AE300591D9E /* CTAssetsGridViewLayout.m */; };
-		7ABF25631C8F1AE300591D9E /* CTAssetsNavigationController.h in Headers */ = {isa = PBXBuildFile; fileRef = 7ABF25061C8F1AE300591D9E /* CTAssetsNavigationController.h */; };
+		7ABF25631C8F1AE300591D9E /* CTAssetsNavigationController.h in Headers */ = {isa = PBXBuildFile; fileRef = 7ABF25061C8F1AE300591D9E /* CTAssetsNavigationController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7ABF25641C8F1AE300591D9E /* CTAssetsNavigationController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7ABF25071C8F1AE300591D9E /* CTAssetsNavigationController.m */; };
-		7ABF25651C8F1AE300591D9E /* CTAssetsPageView.h in Headers */ = {isa = PBXBuildFile; fileRef = 7ABF25081C8F1AE300591D9E /* CTAssetsPageView.h */; };
+		7ABF25651C8F1AE300591D9E /* CTAssetsPageView.h in Headers */ = {isa = PBXBuildFile; fileRef = 7ABF25081C8F1AE300591D9E /* CTAssetsPageView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7ABF25661C8F1AE300591D9E /* CTAssetsPageView.m in Sources */ = {isa = PBXBuildFile; fileRef = 7ABF25091C8F1AE300591D9E /* CTAssetsPageView.m */; };
-		7ABF25671C8F1AE300591D9E /* CTAssetsPageViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 7ABF250A1C8F1AE300591D9E /* CTAssetsPageViewController.h */; };
+		7ABF25671C8F1AE300591D9E /* CTAssetsPageViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 7ABF250A1C8F1AE300591D9E /* CTAssetsPageViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7ABF25681C8F1AE300591D9E /* CTAssetsPageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7ABF250B1C8F1AE300591D9E /* CTAssetsPageViewController.m */; };
-		7ABF25691C8F1AE300591D9E /* CTAssetsPickerAccessDeniedView.h in Headers */ = {isa = PBXBuildFile; fileRef = 7ABF250C1C8F1AE300591D9E /* CTAssetsPickerAccessDeniedView.h */; };
+		7ABF25691C8F1AE300591D9E /* CTAssetsPickerAccessDeniedView.h in Headers */ = {isa = PBXBuildFile; fileRef = 7ABF250C1C8F1AE300591D9E /* CTAssetsPickerAccessDeniedView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7ABF256A1C8F1AE300591D9E /* CTAssetsPickerAccessDeniedView.m in Sources */ = {isa = PBXBuildFile; fileRef = 7ABF250D1C8F1AE300591D9E /* CTAssetsPickerAccessDeniedView.m */; };
-		7ABF256B1C8F1AE300591D9E /* CTAssetsPickerController.h in Headers */ = {isa = PBXBuildFile; fileRef = 7ABF250E1C8F1AE300591D9E /* CTAssetsPickerController.h */; };
+		7ABF256B1C8F1AE300591D9E /* CTAssetsPickerController.h in Headers */ = {isa = PBXBuildFile; fileRef = 7ABF250E1C8F1AE300591D9E /* CTAssetsPickerController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7ABF256C1C8F1AE300591D9E /* CTAssetsPickerController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7ABF250F1C8F1AE300591D9E /* CTAssetsPickerController.m */; };
-		7ABF256D1C8F1AE300591D9E /* CTAssetsPickerDefines.h in Headers */ = {isa = PBXBuildFile; fileRef = 7ABF25101C8F1AE300591D9E /* CTAssetsPickerDefines.h */; };
-		7ABF256E1C8F1AE300591D9E /* CTAssetsPickerNoAssetsView.h in Headers */ = {isa = PBXBuildFile; fileRef = 7ABF25111C8F1AE300591D9E /* CTAssetsPickerNoAssetsView.h */; };
+		7ABF256D1C8F1AE300591D9E /* CTAssetsPickerDefines.h in Headers */ = {isa = PBXBuildFile; fileRef = 7ABF25101C8F1AE300591D9E /* CTAssetsPickerDefines.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		7ABF256E1C8F1AE300591D9E /* CTAssetsPickerNoAssetsView.h in Headers */ = {isa = PBXBuildFile; fileRef = 7ABF25111C8F1AE300591D9E /* CTAssetsPickerNoAssetsView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7ABF256F1C8F1AE300591D9E /* CTAssetsPickerNoAssetsView.m in Sources */ = {isa = PBXBuildFile; fileRef = 7ABF25121C8F1AE300591D9E /* CTAssetsPickerNoAssetsView.m */; };
-		7ABF25701C8F1AE300591D9E /* CTAssetsViewControllerTransition.h in Headers */ = {isa = PBXBuildFile; fileRef = 7ABF25131C8F1AE300591D9E /* CTAssetsViewControllerTransition.h */; };
+		7ABF25701C8F1AE300591D9E /* CTAssetsViewControllerTransition.h in Headers */ = {isa = PBXBuildFile; fileRef = 7ABF25131C8F1AE300591D9E /* CTAssetsViewControllerTransition.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7ABF25711C8F1AE300591D9E /* CTAssetsViewControllerTransition.m in Sources */ = {isa = PBXBuildFile; fileRef = 7ABF25141C8F1AE300591D9E /* CTAssetsViewControllerTransition.m */; };
-		7ABF25721C8F1AE300591D9E /* CTAssetThumbnailOverlay.h in Headers */ = {isa = PBXBuildFile; fileRef = 7ABF25151C8F1AE300591D9E /* CTAssetThumbnailOverlay.h */; };
+		7ABF25721C8F1AE300591D9E /* CTAssetThumbnailOverlay.h in Headers */ = {isa = PBXBuildFile; fileRef = 7ABF25151C8F1AE300591D9E /* CTAssetThumbnailOverlay.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7ABF25731C8F1AE300591D9E /* CTAssetThumbnailOverlay.m in Sources */ = {isa = PBXBuildFile; fileRef = 7ABF25161C8F1AE300591D9E /* CTAssetThumbnailOverlay.m */; };
-		7ABF25741C8F1AE300591D9E /* CTAssetThumbnailStacks.h in Headers */ = {isa = PBXBuildFile; fileRef = 7ABF25171C8F1AE300591D9E /* CTAssetThumbnailStacks.h */; };
+		7ABF25741C8F1AE300591D9E /* CTAssetThumbnailStacks.h in Headers */ = {isa = PBXBuildFile; fileRef = 7ABF25171C8F1AE300591D9E /* CTAssetThumbnailStacks.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7ABF25751C8F1AE300591D9E /* CTAssetThumbnailStacks.m in Sources */ = {isa = PBXBuildFile; fileRef = 7ABF25181C8F1AE300591D9E /* CTAssetThumbnailStacks.m */; };
-		7ABF25761C8F1AE300591D9E /* CTAssetThumbnailView.h in Headers */ = {isa = PBXBuildFile; fileRef = 7ABF25191C8F1AE300591D9E /* CTAssetThumbnailView.h */; };
+		7ABF25761C8F1AE300591D9E /* CTAssetThumbnailView.h in Headers */ = {isa = PBXBuildFile; fileRef = 7ABF25191C8F1AE300591D9E /* CTAssetThumbnailView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7ABF25771C8F1AE300591D9E /* CTAssetThumbnailView.m in Sources */ = {isa = PBXBuildFile; fileRef = 7ABF251A1C8F1AE300591D9E /* CTAssetThumbnailView.m */; };
 		7ABF25781C8F1AE300591D9E /* CTAssetsPicker.strings in Resources */ = {isa = PBXBuildFile; fileRef = 7ABF251C1C8F1AE300591D9E /* CTAssetsPicker.strings */; };
 		7ABF25791C8F1AE300591D9E /* CTAssetsPicker.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7ABF251E1C8F1AE300591D9E /* CTAssetsPicker.xcassets */; };
@@ -380,12 +380,12 @@
 				7ABF255F1C8F1AE300591D9E /* CTAssetsGridViewFooter.h in Headers */,
 				7ABF25411C8F1AE300591D9E /* PHAssetCollection+CTAssetsPickerController.h in Headers */,
 				7ABF25531C8F1AE300591D9E /* CTAssetSelectionButton.h in Headers */,
-				7ABF25651C8F1AE300591D9E /* CTAssetsPageView.h in Headers */,
 				7ABF25471C8F1AE300591D9E /* CTAssetCheckmark.h in Headers */,
 				7ABF25571C8F1AE300591D9E /* CTAssetsGridSelectedView.h in Headers */,
 				7ABF25431C8F1AE300591D9E /* UICollectionView+CTAssetsPickerController.h in Headers */,
 				7ABF25391C8F1AE300591D9E /* NSDateFormatter+CTAssetsPickerController.h in Headers */,
 				7ABF25371C8F1AE300591D9E /* NSBundle+CTAssetsPickerController.h in Headers */,
+				7ABF25651C8F1AE300591D9E /* CTAssetsPageView.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
