@@ -7,6 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "CTAssetsPickerController.h"
 
 //! Project version number for CTAssetsPicker.
 FOUNDATION_EXPORT double CTAssetsPickerVersionNumber;
